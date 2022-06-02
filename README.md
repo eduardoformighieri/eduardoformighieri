@@ -1,4 +1,4 @@
-# Hi there, I'm Eduardo <img src="https://github.com/eduardoformighieri/eduardoformighieri/blob/main/gifs/Hi.gif" width="29px">
+# Hi there, I'm Eduardo <img src="https://github.com/eduardoformighieri/eduardoformighieri/blob/main/gifs/Hi.gif" height="32px">
 
 <div>
   <a href="https://github.com/eduardoformighieri">
